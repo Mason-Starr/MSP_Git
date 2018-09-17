@@ -8,3 +8,4 @@ Currently, the MSP has versions for MacOS and Windows. To install, simply downlo
 ```
 ./MSP
 ```
+or, if on Windows, simply double click MSP.exe.
