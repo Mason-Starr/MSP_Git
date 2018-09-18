@@ -9,3 +9,9 @@ Currently, the MSP has versions for MacOS and Windows. To install, simply downlo
 ./MSP
 ```
 or, if on Windows, simply double click MSP.exe.
+
+#### Versions
+MacOS version is currently compatable with MacOS 10.10.5 onward.
+Windows version is currently compatable with Windows 10, but may work with older versions of Windows as well.
+
+If the MSP is not compatable with your operating system, let me know!
