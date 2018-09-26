@@ -10,6 +10,8 @@ Currently, the MSP has versions for MacOS and Windows. To install, simply downlo
 ```
 or, if on Windows, simply double click MSP.exe.
 
+In addition, you must contact myself or Melissa Rice to obtain the file containing the spectral information. Contact mee at starrm@wwu.edu, or Melissa at melissa.rice@wwu.edu. When you get the file, simply drop it in the directory of the .exe and everything will run as planned.
+
 #### Versions
 MacOS version is currently compatable with MacOS 10.10.5 onward.
 Windows version is currently compatable with Windows 10, but may work with older versions of Windows as well.
